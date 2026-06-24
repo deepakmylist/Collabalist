@@ -115,7 +115,7 @@ const portfolioData = {
         {
             "degree": "Diploma in Computer Engineering (76.76%)",
             "institution": "Govt. Polytechnic of Obulavaripalli",
-            "duration": "July 2013 - June 2016"
+            "duration": "July 2010 - June 2013"
         }
     ],
     "projects": [
