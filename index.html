@@ -1,15 +1,81 @@
-<!doctype html>
+<!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Deepak Sharma — Senior Salesforce Developer</title>
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=Space+Grotesk:wght@400;500;600;700&display=swap" rel="stylesheet" />
-  </head>
-  <body>
-    <div id="root"></div>
-    <script type="module" src="./src/main.tsx"></script>
-  </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Deepak Sharma | Portfolio</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <!-- Floating Navigation Menu -->
+    <nav class="floating-menu">
+        <a href="#home" class="menu-item" title="Home">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 9l9-7 9 7v11a2 2 0 0 1-2 2H5a2 2 0 0 1-2-2z"></path><polyline points="9 22 9 12 15 12 15 22"></polyline></svg>
+            <span>Home</span>
+        </a>
+        <a href="#projects-section" class="menu-item" title="Projects">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M22 19a2 2 0 0 1-2 2H4a2 2 0 0 1-2-2V5a2 2 0 0 1 2-2h5l2 3h9a2 2 0 0 1 2 2z"></path></svg>
+            <span>Projects</span>
+        </a>
+        <a href="#experience-section" class="menu-item" title="Experience">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="2" y="7" width="20" height="14" rx="2" ry="2"></rect><path d="M16 21V5a2 2 0 0 0-2-2h-4a2 2 0 0 0-2 2v16"></path></svg>
+            <span>Experience</span>
+        </a>
+        <a href="#skills-section" class="menu-item" title="Skills">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14.7 6.3a1 1 0 0 0 0 1.4l1.6 1.6a1 1 0 0 0 1.4 0l3.77-3.77a6 6 0 0 1-7.94 7.94l-6.91 6.91a2.12 2.12 0 0 1-3-3l6.91-6.91a6 6 0 0 1 7.94-7.94l-3.76 3.76z"></path></svg>
+            <span>Skills</span>
+        </a>
+        <a href="#education-section" class="menu-item" title="Education">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M11 4H4a2 2 0 0 0-2 2v14a2 2 0 0 0 2 2h14a2 2 0 0 0 2-2v-7"></path><path d="M18.5 2.5a2.121 2.121 0 0 1 3 3L12 15l-4 1 1-4 9.5-9.5z"></path></svg>
+            <span>Education</span>
+        </a>
+        <div class="menu-divider"></div>
+        <button id="theme-toggle" class="menu-item" title="Toggle Theme">
+            <svg id="theme-icon" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 12.79A9 9 0 1 1 11.21 3 7 7 0 0 0 21 12.79z"></path></svg>
+            <span>Theme</span>
+        </button>
+    </nav>
+
+    <div class="container" id="home">
+        <!-- Header Bento Box -->
+        <header class="bento-card profile-card">
+            <div class="profile-img-container">
+                <img src="31879436.jpg" alt="Deepak Sharma" id="profile-img">
+            </div>
+            <div class="profile-info">
+                <h1 id="name"></h1>
+                <h2 id="title" class="gradient-text"></h2>
+                <div class="contact-links" id="social-links"></div>
+            </div>
+        </header>
+
+        <!-- Main Bento Grid -->
+        <main class="bento-grid">
+            <!-- Experience Box -->
+            <section class="bento-card span-2" id="experience-section">
+                <h3>Experience</h3>
+                <div id="experience-list" class="timeline"></div>
+            </section>
+
+            <!-- Skills Box (Updated layout handler) -->
+            <section class="bento-card" id="skills-section">
+                <h3>Core Skills</h3>
+                <div id="skills-list"></div>
+            </section>
+
+            <!-- Projects & Utilities Box -->
+            <section class="bento-card" id="projects-section">
+                <h3>Utilities & Libraries</h3>
+                <div id="projects-list" class="project-grid"></div>
+            </section>
+
+            <!-- Education Box -->
+            <section class="bento-card" id="education-section">
+                <h3>Education</h3>
+                <div id="education-list" class="edu-container"></div>
+            </section>
+        </main>
+    </div>
+    <script src="script.js"></script>
+</body>
 </html>
