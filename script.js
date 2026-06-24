@@ -80,28 +80,28 @@ const portfolioData = {
         {
             "role": "Team Lead",
             "company": "Lirik Infotech, Jaipur",
-            "logo": "https://logo.clearbit.com/lirik.com",
+            "logo": "https://img.logo.dev/lirik.io?token=pk_ImoZ44wBRuai5WrPSb3t-g",
             "duration": "August 2024 - PRESENT",
             "description": "Working as Tech Lead for Salesforce DEV team. Developing proof of concepts, handling code reviews, solution designs, and supporting Integration/Data teams."
         },
         {
             "role": "Application Development Team Lead",
             "company": "Accenture India, Jaipur",
-            "logo": "https://logo.clearbit.com/accenture.com",
+            "logo": "https://img.logo.dev/accenture.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png",
             "duration": "July 2022 - August 2024",
             "description": "Solution Architect & Team Lead. Focused on LWC, Flows, and CPQ development. Handled code reviews and solution designs."
         },
         {
             "role": "Consultant (Solution Engineer)",
             "company": "Capgemini India, Bengaluru",
-            "logo": "https://logo.clearbit.com/capgemini.com",
+            "logo": "https://img.logo.dev/capgemini.github.io?token=pk_ImoZ44wBRuai5WrPSb3t-g",
             "duration": "February 2019 - July 2022",
             "description": "Salesforce & ServiceMax Developer/Solution Engineer. Gathered requirements, module designs, and ServiceMax customization."
         },
         {
             "role": "Android Developer",
             "company": "The Nine Hertz India, Jaipur",
-            "logo": "https://logo.clearbit.com/theninehertz.com",
+            "logo": "https://img.logo.dev/theninehertz.ae?token=pk_ImoZ44wBRuai5WrPSb3t-g",
             "duration": "April 2017 - October 2018",
             "description": "Built navigation structures, fixed bugs in legacy apps, designed custom views, and wrote API documentation."
         }
