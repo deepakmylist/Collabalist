@@ -1,0 +1,444 @@
+{
+  "site": {
+    "title": "Deepak Sharma",
+    "brand": "Deepak •",
+    "availability": "Open to the right opportunity",
+    "location": "Jaipur, India",
+    "email": "",
+    "resumeUrl": "",
+    "theme": "light",
+    "footer": "Designed with intention · Built with HTML, CSS & JavaScript"
+  },
+  "hero": {
+    "eyebrow": "SALESFORCE ENGINEERING · AUTOMATION · PRODUCT THINKING",
+    "titleLines": [
+      "I build systems",
+      "that make work",
+      "flow better."
+    ],
+    "summary": "Salesforce developer focused on reliable CRM solutions, automation, and turning complex workflows into useful products.",
+    "actions": [
+      {
+        "label": "Explore my work",
+        "href": "#projects",
+        "style": "primary"
+      },
+      {
+        "label": "Let’s connect ↗",
+        "href": "#connect",
+        "style": "secondary"
+      }
+    ],
+    "meta": [
+      "Salesforce Development",
+      "Workflow Automation",
+      "Product-minded Engineering"
+    ],
+    "card": {
+      "label": "CURRENT INTEREST",
+      "title": "Beyond the CRM.",
+      "copy": "Exploring visual workflow builders, AI-assisted business tools, and thoughtful platform architecture.",
+      "chips": [
+        "Data 360",
+        "CPQ",
+        "Integrations",
+        "Automation"
+      ]
+    }
+  },
+  "navigation": [
+    {
+      "label": "About",
+      "href": "#about",
+      "icon": "user-round"
+    },
+    {
+      "label": "Focus",
+      "href": "#expertise",
+      "icon": "layers"
+    },
+    {
+      "label": "Experience",
+      "href": "#experience",
+      "icon": "briefcase-business"
+    },
+    {
+      "label": "Projects",
+      "href": "#projects",
+      "icon": "folder-code"
+    },
+    {
+      "label": "Skills",
+      "href": "#skills",
+      "icon": "code-2"
+    },
+    {
+      "label": "Contact",
+      "href": "#connect",
+      "icon": "mail"
+    },
+    {
+      "label": "Open Source Contributions",
+      "href": "#openSource",
+      "icon": "openSource"
+    }
+  ],
+  "about": {
+    "lead": "Engineer with a practical mindset.",
+    "paragraphs": [
+      "I work in the Salesforce ecosystem, building and improving solutions with a focus on maintainability, automation, and real business outcomes.",
+      "I’m interested in the space where enterprise platforms, integrations, and product thinking meet — especially tools that help people automate repetitive work."
+    ],
+    "facts": [
+      {
+        "label": "Based in",
+        "value": "Jaipur, Rajasthan, India"
+      },
+      {
+        "label": "Core platform",
+        "value": "Salesforce"
+      },
+      {
+        "label": "Build style",
+        "value": "Practical · Modular · Automation-first"
+      }
+    ]
+  },
+  "expertise": [
+    {
+      "number": "01",
+      "icon": "⌘",
+      "title": "Salesforce engineering",
+      "description": "Building platform functionality with Apex, triggers, asynchronous processing, Lightning Web Components, and Flow integrations.",
+      "tags": [
+        "Apex",
+        "LWC",
+        "Triggers",
+        "Queueable",
+        "Flows"
+      ]
+    },
+    {
+      "number": "02",
+      "icon": "↗",
+      "title": "Workflow automation",
+      "description": "Designing dependable processes that connect business systems, orchestrate work, and reduce repetitive steps.",
+      "tags": [
+        "Automation",
+        "Platform Events",
+        "APIs",
+        "Webhooks"
+      ]
+    },
+    {
+      "number": "03",
+      "icon": "◈",
+      "title": "Platform architecture",
+      "description": "Thinking across execution engines, connector layers, data models, and the operational details behind maintainable solutions.",
+      "tags": [
+        "Integrations",
+        "Architecture",
+        "Data modelling"
+      ]
+    },
+    {
+      "number": "04",
+      "icon": "✳",
+      "title": "AI-enabled products",
+      "description": "Exploring how AI capabilities can be integrated into useful business workflows and approachable product experiences.",
+      "tags": [
+        "AI integration",
+        "Product thinking",
+        "Prototyping"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "period": "Professional experience",
+      "role": "Technical Lead and Senior Salesforce Developer",
+      "company": "Lirik Infotech, Jaipur",
+      "description": "Working as Tech Lead for Salesforce DEV team. Developing proof of concepts, handling code reviews, solution designs, and supporting Integration/Data teams.",
+      "highlights": [
+        "Develop / Work on proof of concepts",
+        "Code Review from DEV team",
+        "Solution designs (as per the business requirements)",
+        "Supporting different Integration and Data teams"
+      ],
+      "logoUrl": "https://img.logo.dev/lirik.io?token=pk_ImoZ44wBRuai5WrPSb3t-g",
+      "start": "August 2024",
+      "end": "Present"
+    },
+    {
+      "period": "Professional experience",
+      "role": "Application Development Team Lead - CL9",
+      "company": "Accenture India, Jaipur",
+      "description": "Worked as a Solution Architect & Team Lead. Focused on LWC, Flows, and CPQ development. Handled code reviews and solution designs.",
+      "highlights": [
+        "Apex classes, triggers, batch and queueable patterns",
+        "LWC and Screen Flow integration",
+        "Salesforce security and field-access considerations"
+      ],
+      "logoUrl": "https://img.logo.dev/accenture.com?token=live_6a1a28fd-6420-4492-aeb0-b297461d9de2&size=128&retina=true&format=png",
+      "start": "July 2022",
+      "end": "August 2024"
+    },
+    {
+      "period": "Professional experience",
+      "role": "Consultant - B2",
+      "roles": [
+        {
+          "title": "Consultant (B2) - Solution Engineer and Consultant",
+          "start": "March 2022",
+          "end": "July 2022"
+        },
+        {
+          "title": "Associate Consultant (B1) - Solution Engineer",
+          "start": "January 2021",
+          "end": "March 2022"
+        },
+        {
+          "title": "Senior Analyst (A5) - Salesforce and ServiceMax Developer",
+          "start": "February 2019",
+          "end": "January 2021"
+        }
+      ],
+      "company": "Capgemini India, Bengaluru",
+      "description": "I was working here as a Salesforce & ServiceMax Developer and Solution Engineer",
+      "highlights": [
+        "Working with BAs, Business POCs and Architects to gather requirements and design the solution for DEV team and also was doing the code review",
+        "Module designs (as per the business requirements)",
+        "ServiceMax Development and Customization",
+        "Supporting different Integration and ERP teams"
+      ],
+      "logoUrl": "https://img.logo.dev/capgemini.github.io?token=pk_ImoZ44wBRuai5WrPSb3t-g",
+      "start": "February 2019",
+      "end": "July 2022"
+    },
+    {
+      "period": "Professional experience",
+      "role": "Android Developer",
+      "company": "The Nine Hertz India, Jaipur",
+      "description": "I was working there as Android Developer and my roles were to develop and maintain the Android applications for different clients.",
+      "highlights": [
+        "Navigation for different kinds of apps",
+        "Bug fixing in old applications",
+        "Designing custom views",
+        "Writing API docs of different apps for backend"
+      ],
+      "logoUrl": "https://img.logo.dev/theninehertz.ae?token=pk_ImoZ44wBRuai5WrPSb3t-g",
+      "start": "April 2017",
+      "end": "October 2018"
+    }
+  ],
+  "projects": [
+    {
+      "number": "01",
+      "category": "PLATFORM CONCEPT",
+      "title": "Visual workflow automation builder",
+      "description": "A concept for an n8n-style automation platform on Salesforce, with a drag-and-drop LWC canvas, workflow definitions, execution services, and reusable connectors.",
+      "tags": [
+        "LWC",
+        "Apex",
+        "Platform Events",
+        "Connectors"
+      ],
+      "link": "",
+      "linkLabel": "Project details ↗",
+      "tone": "peach"
+    },
+    {
+      "number": "02",
+      "category": "AI + BUSINESS WORKFLOWS",
+      "title": "AI integration layer",
+      "description": "Exploring a reusable layer for adding AI capabilities to business automations, with external model integrations and configurable workflow steps.",
+      "tags": [
+        "AI integration",
+        "APIs",
+        "Automation"
+      ],
+      "link": "",
+      "linkLabel": "Project details ↗",
+      "tone": "lavender"
+    },
+    {
+      "number": "03",
+      "category": "UTILITY WEB APP",
+      "title": "Ramp & vehicle clearance calculator",
+      "description": "A web-app concept to help estimate whether a vehicle can clear a ramp or slope using practical vehicle and incline measurements.",
+      "tags": [
+        "JavaScript",
+        "Calculator",
+        "UX"
+      ],
+      "link": "",
+      "linkLabel": "Project details ↗",
+      "tone": "mint"
+    }
+  ],
+  "skills": [
+    {
+            "group": "Salesforce Core & Development",
+            "items": [
+                { "name": "Apex", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "Trigger", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "SOQL", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "SOSL", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "JavaScript", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" },
+                { "name": "LWC", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "Aura", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "Visualforce", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "SLDS", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "Force.com Sites", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "REST/SOAP Integration", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bash/bash-original.svg" }
+            ]
+        },
+        {
+            "group": "Salesforce Clouds",
+            "items": [
+                { "name": "CPQ", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "Service Cloud", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "Sales Cloud", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "ServiceMax", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "FSL", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "Community (Experience)", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" }
+            ]
+        },
+        {
+            "group": "Android & IoT",
+            "items": [
+                { "name": "Java", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" },
+                { "name": "MySQL", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" },
+                { "name": "Android", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/android/android-original.svg" },
+                { "name": "Firebase", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/firebase/firebase-plain.svg" },
+                { "name": "Socket.io", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/socketio/socketio-original.svg" },
+                { "name": "C", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" },
+                { "name": "C++", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" }
+            ]
+        },
+        {
+            "group": "Miscellaneous Tools",
+            "items": [
+                { "name": "Azure DevOps", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg" },
+                { "name": "Jira", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" },
+                { "name": "Git", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" },
+                { "name": "Gitlab", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gitlab/gitlab-original.svg" },
+                { "name": "Github", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" },
+                { "name": "ANT (Salesforce)", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/salesforce/salesforce-original.svg" },
+                { "name": "HTML", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" },
+                { "name": "CSS", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" },
+                { "name": "XML", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/xml/xml-original.svg" },
+                { "name": "JSON", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/json/json-original.svg" }
+            ]
+        },
+        {
+            "group": "IDEs",
+            "items": [
+                { "name": "VS Code", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" },
+                { "name": "IntelliJ", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" },
+                { "name": "Eclipse", "icon": "https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/eclipse/eclipse-original.svg" }
+            ]
+        },
+    {
+      "group": "Architecture & integration",
+      "items": [
+        {
+          "name": "REST APIs",
+          "iconUrl": ""
+        },
+        {
+          "name": "Webhooks",
+          "iconUrl": ""
+        },
+        {
+          "name": "External systems",
+          "iconUrl": ""
+        },
+        {
+          "name": "Workflow design",
+          "iconUrl": ""
+        },
+        {
+          "name": "Asynchronous processing",
+          "iconUrl": ""
+        },
+        {
+          "name": "Data modelling",
+          "iconUrl": ""
+        }
+      ]
+    },
+    {
+      "group": "Exploration areas",
+      "items": [
+        {
+          "name": "AI integrations",
+          "iconUrl": ""
+        },
+        {
+          "name": "Agentforce learning",
+          "iconUrl": ""
+        },
+        {
+          "name": "Workflow-builder architecture",
+          "iconUrl": ""
+        },
+        {
+          "name": "Product prototyping",
+          "iconUrl": ""
+        }
+      ]
+    }
+  ],
+  "contact": {
+    "titleLines": [
+      "Let’s make",
+      "something useful."
+    ],
+    "copy": "Have a Salesforce challenge, an automation idea, or a product worth exploring? I’d be glad to connect.",
+    "links": [
+      {
+        "label": "LinkedIn ↗",
+        "href": "https://linkedin.com/in/collabalist",
+        "style": "linkedin"
+      },
+      {
+        "label": "GitHub ↗",
+        "href": "https://github.com/Collabalist",
+        "style": "primary"
+      },
+      {
+        "label": "Portfolio ↗",
+        "href": "https://collabalist.github.io/",
+        "style": "secondary"
+      }
+    ]
+  },
+  "openSource": [
+    {
+      "logo": "https://raw.githubusercontent.com/Collabalist/Extra-Validation/refs/heads/main/extra%20validation.svg",
+      "title": "Extra Validation",
+      "description": "Extra-Validation enhances standard validation workflows with additional checks, helping developers enforce data integrity, catch invalid inputs, and build more reliable applications.",
+      "url": "https://github.com/Collabalist/Extra-Validation"
+    },
+    {
+      "logo": "{ }",
+      "title": "JSON Viewer",
+      "description": "A fast, privacy-friendly JSON Viewer, Formatter and Explorer built with plain HTML, CSS and JavaScript.",
+      "url": "https://collabalist.github.io/JSON-view/"
+    },
+    {
+      "logo": "https://raw.githubusercontent.com/Collabalist/Music/refs/heads/main/favicon.svg",
+      "title": "Metro Player",
+      "description": "Metro Player is a sleek, responsive, and feature-rich web media player. Built with modern web technologies and hosted reliably on Render, it provides a seamless playback experience with intuitive controls, playlist management, and a clean user interface.",
+      "url": "https://deepakmylist.github.io/metro-player/"
+    },
+    {
+      "logo": "JPT",
+      "title": "Just Play It (JPT)",
+      "description": "JPT (Just Play It) is a browser-based entertainment app for discovering and playing content through client-side APIs without storing data.",
+      "url": "https://deepakmylist.github.io/JPT/"
+    }
+    
+  ]
+}
