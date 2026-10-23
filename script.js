@@ -107,7 +107,7 @@ function renderButton(item = {}) {
 // Load the portfolio content from data.json.
 async function loadPortfolio() {
   try {
-    const response = await fetch('./data.json');
+    const response = await fetch('https://raw.githubusercontent.com/deepakmylist/Collabalist/refs/heads/master/data.json');
 
     if (!response.ok) {
       throw new Error(`Could not load data.json (HTTP ${response.status})`);
