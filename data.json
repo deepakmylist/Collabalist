@@ -4,9 +4,9 @@
     "brand": "Deepak •",
     "availability": "Open to the right opportunity",
     "location": "Jaipur, India",
-    "email": "",
+    "email": "deepak.mylist@outlook.com",
     "resumeUrl": "",
-    "theme": "light",
+    "theme": "dark",
     "footer": "Designed with intention · Built with HTML, CSS & JavaScript"
   },
   "hero": {
@@ -411,6 +411,11 @@
         "label": "Portfolio ↗",
         "href": "https://collabalist.github.io/",
         "style": "secondary"
+      },
+      {
+        "label": "Trailblazer ↗",
+        "href": "https://www.salesforce.com/trailblazer/collabalist",
+        "style": "trailblazer"
       }
     ]
   },

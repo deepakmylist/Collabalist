@@ -90,7 +90,7 @@ function renderNavigationIcon(name = 'code-2') {
 // Render a button from JSON data.
 function renderButton(item = {}) {
   const href = safeHref(item.href || '#');
-  const allowedStyles = ['primary', 'secondary', 'linkedin'];
+  const allowedStyles = ['primary', 'secondary', 'linkedin', 'trailblazer'];
   const style = allowedStyles.includes(item.style) ? item.style : 'secondary';
   const opensNewTab = /^https?:/i.test(item.href || '');
   const externalAttributes = opensNewTab
@@ -208,6 +208,7 @@ function renderPortfolio(data) {
   if (heroCard) {
     const card = hero.card || {};
     heroCard.innerHTML = `
+      <img class="hero-card-photo" src="https://avatars.githubusercontent.com/u/31879436" alt="Deepak Sharma">
       <p class="eyebrow">${escapeHTML(card.label || '')}</p>
       <h3>${escapeHTML(card.title || '')}</h3>
       <p>${escapeHTML(card.copy || '')}</p>
